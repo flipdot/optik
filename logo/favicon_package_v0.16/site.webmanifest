@@ -1,0 +1,19 @@
+{
+    "name": "flipdot",
+    "short_name": "flipdot",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png?v=oLBBd6M908",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png?v=oLBBd6M908",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#f5c600",
+    "background_color": "#f5c600",
+    "display": "standalone"
+}
