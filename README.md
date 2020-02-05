@@ -1,5 +1,5 @@
 # flipdot Identity
-This repository contains a collection of logos, images and other CI/CD-related stuff ot the flipdot kassel.
+This repository contains a collection of logos, images and other CI/CD-related stuff of the flipdot kassel.
 
 ## Official Name
 According to the Vereinsregister:
